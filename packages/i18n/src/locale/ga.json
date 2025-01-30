@@ -1,0 +1,32 @@
+{
+  "code": "ga",
+  "messages": {
+    "_default": "Níl an réimse {field} bailí",
+    "alpha": "Ní féidir ach litreacha a bheith sa réimse {field}",
+    "alpha_num": "Ní féidir ach litreacha agus uimhreacha a bheith sa réimse {field}",
+    "alpha_dash": "Ní féidir ach litreacha, uimhreacha, daiseanna agus fostríoca a bheith sa réimse {field}",
+    "alpha_spaces": "Ní féidir ach litreacha agus spásanna a bheith sa réimse {field}",
+    "between": "Caithfidh an réimse {field} a bheith idir 0:{min} agus 1:{max}",
+    "confirmed": "Ní thagann deimhniú an réimse {field} le chéile",
+    "digits": "Caithfidh an réimse {field} a bheith uimhriúil agus 0:{length} digit a bheith ann",
+    "dimensions": "Caithfidh an réimse {field} a bheith 0:{width} picteilín ar leithead agus 1:{height} picteilín ar airde",
+    "email": "Caithfidh an réimse {field} a bheith ina sheoladh ríomhphoist bailí",
+    "not_one_of": "Níl an réimse {field} ina luach bailí",
+    "ext": "Níl an réimse {field} ina chomhad bailí",
+    "image": "Caithfidh an réimse {field} a bheith ina íomhá",
+    "integer": "Caithfidh an réimse {field} a bheith ina shlánuimhir",
+    "length": "Caithfidh an réimse {field} a bheith 0:{length} ar fad",
+    "max_value": "Caithfidh an réimse {field} a bheith 0:{max} nó níos lú",
+    "max": "Ní féidir leis an réimse {field} a bheith níos mó ná 0:{length} carachtar",
+    "mimes": "Caithfidh cineál comhaid bailí a bheith ag an réimse {field}",
+    "min_value": "Caithfidh an réimse {field} a bheith 0:{min} nó níos mó",
+    "min": "Caithfidh an réimse {field} a bheith ar a laghad 0:{length} carachtar",
+    "numeric": "Ní féidir ach carachtair uimhriúla a bheith sa réimse {field}",
+    "one_of": "Níl an réimse {field} ina luach bailí",
+    "regex": "Níl formáid an réimse {field} bailí",
+    "required_if": "Tá an réimse {field} riachtanach",
+    "required": "Tá an réimse {field} riachtanach",
+    "size": "Caithfidh méid an réimse {field} a bheith níos lú ná 0:{size}KB",
+    "url": "Níl an réimse {field} ina URL bailí"
+  }
+}

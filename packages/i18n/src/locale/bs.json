@@ -1,0 +1,32 @@
+{
+  "code": "bs",
+  "messages": {
+    "_default": "{field} nije validan",
+    "alpha": "Polje {field} može sadržavati samo slova",
+    "alpha_num": "Polje {field} može sadržavati samo slova i brojeve",
+    "alpha_dash": "Polje {field} može sadržavati alfanumeričke znakove, crtice i donje crte",
+    "alpha_spaces": "Polje {field} može sadržavati samo slova i razmake",
+    "between": "Polje {field} mora biti između 0:{min} i 1:{max}",
+    "confirmed": "Potvrda polja {field} se ne podudara",
+    "digits": "Polje {field} mora biti numeričko i sadržavati tačno 0:{length} cifara",
+    "dimensions": "Polje {field} mora biti 0:{width} piksela široko i 1:{height} piksela visoko",
+    "email": "Polje {field} mora biti validna email adresa",
+    "not_one_of": "Polje {field} nije validna vrijednost",
+    "ext": "Polje {field} nije validna datoteka",
+    "image": "Polje {field} mora biti slika",
+    "integer": "Polje {field} mora biti cijeli broj",
+    "length": "Polje {field} mora biti dugačko 0:{length}",
+    "max_value": "Polje {field} mora biti 0:{max} ili manje",
+    "max": "Polje {field} ne smije biti duže od 0:{length} karaktera",
+    "mimes": "Polje {field} mora imati validan tip datoteke",
+    "min_value": "Polje {field} mora biti 0:{min} ili više",
+    "min": "Polje {field} mora biti najmanje 0:{length} karaktera",
+    "numeric": "Polje {field} može sadržavati samo brojeve",
+    "one_of": "Polje {field} nije validna vrijednost",
+    "regex": "Format polja {field} nije validan",
+    "required_if": "Polje {field} je obavezno",
+    "required": "Polje {field} je obavezno",
+    "size": "Veličina polja {field} mora biti manja od 0:{size}KB",
+    "url": "Polje {field} nije validan URL"
+  }
+}

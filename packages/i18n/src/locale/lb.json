@@ -1,0 +1,32 @@
+{
+  "code": "lb",
+  "messages": {
+    "_default": "D'Feld {field} ass net gülteg",
+    "alpha": "D'Feld {field} däerf nëmmen Buschtawen enthalen",
+    "alpha_num": "D'Feld {field} däerf nëmmen Buschtawen an Zuelen enthalen",
+    "alpha_dash": "D'Feld {field} däerf nëmmen alfanumeresch Zeechen, Bindestrécher an Ënnerstrécher enthalen",
+    "alpha_spaces": "D'Feld {field} däerf nëmmen Buschtawen a Späicherplazen enthalen",
+    "between": "D'Feld {field} muss tëscht 0:{min} an 1:{max} sinn",
+    "confirmed": "D'Bestätegung vum Feld {field} stëmmt net iwwereneen",
+    "digits": "D'Feld {field} muss numeresch sinn an exakt 0:{length} Zifferen enthalen",
+    "dimensions": "D'Feld {field} muss 0:{width} Pixel breet a 1:{height} Pixel héich sinn",
+    "email": "D'Feld {field} muss eng gülteg E-Mail-Adress sinn",
+    "not_one_of": "D'Feld {field} ass kee gültege Wäert",
+    "ext": "D'Feld {field} ass keng gülteg Datei",
+    "image": "D'Feld {field} muss e Bild sinn",
+    "integer": "D'Feld {field} muss eng ganz Zuel sinn",
+    "length": "D'Feld {field} muss 0:{length} laang sinn",
+    "max_value": "D'Feld {field} muss 0:{max} oder manner sinn",
+    "max": "D'Feld {field} däerf net méi laang wéi 0:{length} Zeeche sinn",
+    "mimes": "D'Feld {field} muss en gültegen Dateityp hunn",
+    "min_value": "D'Feld {field} muss 0:{min} oder méi sinn",
+    "min": "D'Feld {field} muss mindestens 0:{length} Zeeche laang sinn",
+    "numeric": "D'Feld {field} däerf nëmmen Zuelen enthalen",
+    "one_of": "D'Feld {field} ass kee gültege Wäert",
+    "regex": "D'Format vum Feld {field} ass net gülteg",
+    "required_if": "D'Feld {field} ass erfuerderlech",
+    "required": "D'Feld {field} ass erfuerderlech",
+    "size": "D'Gréisst vum Feld {field} muss manner wéi 0:{size}KB sinn",
+    "url": "D'Feld {field} ass keng gülteg URL"
+  }
+}

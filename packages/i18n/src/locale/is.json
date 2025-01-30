@@ -1,0 +1,32 @@
+{
+  "code": "is",
+  "messages": {
+    "_default": "Reiturinn {field} er ógildur",
+    "alpha": "Reiturinn {field} má aðeins innihalda bókstafi",
+    "alpha_num": "Reiturinn {field} má aðeins innihalda bókstafi og tölur",
+    "alpha_dash": "Reiturinn {field} má innihalda bókstafi, tölur, bandstrik og undirstrik",
+    "alpha_spaces": "Reiturinn {field} má aðeins innihalda bókstafi og bil",
+    "between": "Reiturinn {field} verður að vera á milli 0:{min} og 1:{max}",
+    "confirmed": "Staðfesting reitsins {field} passar ekki",
+    "digits": "Reiturinn {field} verður að vera tala og nákvæmlega 0:{length} tölustafir",
+    "dimensions": "Reiturinn {field} verður að vera 0:{width} pixlar á breidd og 1:{height} pixlar á hæð",
+    "email": "Reiturinn {field} verður að vera gilt netfang",
+    "not_one_of": "Reiturinn {field} inniheldur óleyfilegt gildi",
+    "ext": "Reiturinn {field} er ekki gild skrá",
+    "image": "Reiturinn {field} verður að vera mynd",
+    "integer": "Reiturinn {field} verður að vera heiltala",
+    "length": "Reiturinn {field} verður að vera 0:{length} að lengd",
+    "max_value": "Reiturinn {field} verður að vera 0:{max} eða minna",
+    "max": "Reiturinn {field} má ekki vera lengri en 0:{length} stafir",
+    "mimes": "Reiturinn {field} verður að hafa gilda skráartegund",
+    "min_value": "Reiturinn {field} verður að vera 0:{min} eða meira",
+    "min": "Reiturinn {field} verður að vera að minnsta kosti 0:{length} stafir",
+    "numeric": "Reiturinn {field} má aðeins innihalda tölur",
+    "one_of": "Reiturinn {field} inniheldur óleyfilegt gildi",
+    "regex": "Reiturinn {field} er á ógildu sniði",
+    "required_if": "Reiturinn {field} er nauðsynlegur",
+    "required": "Reiturinn {field} er nauðsynlegur",
+    "size": "Stærð reitsins {field} verður að vera minni en 0:{size}KB",
+    "url": "Reiturinn {field} er ekki gild vefslóð"
+  }
+}

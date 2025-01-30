@@ -1,0 +1,32 @@
+{
+  "code": "mt",
+  "messages": {
+    "_default": "Il-qasam {field} mhux validu",
+    "alpha": "Il-qasam {field} jista' jkun fih biss ittri alfabetiċi",
+    "alpha_num": "Il-qasam {field} jista' jkun fih biss karattri alfanumeriċi",
+    "alpha_dash": "Il-qasam {field} jista' jkun fih karattri alfanumeriċi, sing u sottolinjati",
+    "alpha_spaces": "Il-qasam {field} jista' jkun fih biss ittri u spazji",
+    "between": "Il-qasam {field} għandu jkun bejn 0:{min} u 1:{max}",
+    "confirmed": "Il-konferma tal-qasam {field} ma taqbilx",
+    "digits": "Il-qasam {field} għandu jkun numeriku u jkun fih eżatt 0:{length} numri",
+    "dimensions": "Il-qasam {field} għandu jkun 0:{width} pixels wiesa' u 1:{height} pixels għoli",
+    "email": "Il-qasam {field} għandu jkun indirizz elettroniku validu",
+    "not_one_of": "Il-qasam {field} mhux valur validu",
+    "ext": "Il-qasam {field} mhux fajl validu",
+    "image": "Il-qasam {field} għandu jkun stampa",
+    "integer": "Il-qasam {field} għandu jkun numru sħiħ",
+    "length": "Il-qasam {field} għandu jkun 0:{length} twil",
+    "max_value": "Il-qasam {field} għandu jkun 0:{max} jew inqas",
+    "max": "Il-qasam {field} ma jistax ikun itwal minn 0:{length} karattri",
+    "mimes": "Il-qasam {field} għandu jkollu tip ta' fajl validu",
+    "min_value": "Il-qasam {field} għandu jkun 0:{min} jew aktar",
+    "min": "Il-qasam {field} għandu jkun mill-inqas 0:{length} karattri",
+    "numeric": "Il-qasam {field} jista' jkun fih biss karattri numeriċi",
+    "one_of": "Il-qasam {field} mhux valur validu",
+    "regex": "Il-format tal-qasam {field} mhux validu",
+    "required_if": "Il-qasam {field} huwa meħtieġ",
+    "required": "Il-qasam {field} huwa meħtieġ",
+    "size": "Id-daqs tal-qasam {field} għandu jkun inqas minn 0:{size}KB",
+    "url": "Il-qasam {field} mhux URL validu"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": "gd",
+  "messages": {
+    "_default": "Chan eil an raon {field} dligheach",
+    "alpha": "Chan fhaod ach litrichean a bhith san raon {field}",
+    "alpha_num": "Chan fhaod ach litrichean is àireamhan a bhith san raon {field}",
+    "alpha_dash": "Chan fhaod ach caractaran alfa-àireamhach, strìochagan is fo-loidhnichean a bhith san raon {field}",
+    "alpha_spaces": "Chan fhaod ach litrichean is beàrnan a bhith san raon {field}",
+    "between": "Feumaidh an raon {field} a bhith eadar 0:{min} agus 1:{max}",
+    "confirmed": "Chan eil dearbhadh an raoin {field} a' freagairt",
+    "digits": "Feumaidh an raon {field} a bhith àireamhach is dìreach 0:{length} àireamhan a bhith ann",
+    "dimensions": "Feumaidh an raon {field} a bhith 0:{width} piogsail air leud is 1:{height} piogsail air àirde",
+    "email": "Feumaidh an raon {field} a bhith na sheòladh puist-d dligheach",
+    "not_one_of": "Chan eil an raon {field} na luach dligheach",
+    "ext": "Chan eil an raon {field} na fhaidhle dligheach",
+    "image": "Feumaidh an raon {field} a bhith na dhealbh",
+    "integer": "Feumaidh an raon {field} a bhith na àireamh shlàn",
+    "length": "Feumaidh an raon {field} a bhith 0:{length} a dh'fhaid",
+    "max_value": "Feumaidh an raon {field} a bhith 0:{max} no nas lugha",
+    "max": "Chan fhaod an raon {field} a bhith nas fhaide na 0:{length} caractaran",
+    "mimes": "Feumaidh an raon {field} a bhith den seòrsa faidhle cheart",
+    "min_value": "Feumaidh an raon {field} a bhith 0:{min} no nas motha",
+    "min": "Feumaidh an raon {field} a bhith co-dhiù 0:{length} caractaran",
+    "numeric": "Chan fhaod ach caractaran àireamhach a bhith san raon {field}",
+    "one_of": "Chan eil an raon {field} na luach dligheach",
+    "regex": "Chan eil fòrmat an raoin {field} dligheach",
+    "required_if": "Tha an raon {field} riatanach",
+    "required": "Tha an raon {field} riatanach",
+    "size": "Feumaidh meud an raoin {field} a bhith nas lugha na 0:{size}KB",
+    "url": "Chan eil an raon {field} na URL dligheach"
+  }
+}
